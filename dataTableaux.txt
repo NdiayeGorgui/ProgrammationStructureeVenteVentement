@@ -1,0 +1,18 @@
+1001;jupe;Femme;145.0;214.0;501;10;1;1;PAPITOZ INC;5146412512;Actif;1;Externe;
+1002;chemise de nuit;Homme;125.0;265.0;250;5;2;2;JULIOZ TROCADY;5145778817;Actif;2;Externe;
+1003;suite noire;Unisexe;216.0;354.0;600;25;3;3;ZAF MODA INC;4385499143;Actif;3;Externe;
+1004;veste;Homme;250.0;400.0;800;20;0;0;***********;***********;Périmé;0;Local;
+1005;Tshirt pres du corps;Unisexe;300.0;432.0;900;10;1;0;PAPITOZ INC;5146412512;Périmé;1;Externe;
+1006;blues;Femme;45.0;98.0;750;12;4;4;LASOUA;5145047105;Actif;4;Externe;
+1007;boxer ceintré;Femme;25.0;65.0;350;5;0;0;***********;***********;Actif;0;Local;
+1008;dale;Homme;150.5;198.5;850;20;2;0;JULIOZ TROCADY;5145778817;Actif;2;Externe;
+1009;capo impermeable;Unisexe;56.0;96.25;800;15;2;0;JULIOZ TROCADY;5145778817;Actif;2;Externe;
+1010;volsa;Homme;33.0;65.5;8;10;0;0;***********;***********;Actif;0;Local;
+1011;balcui;Femme;366.0;500.0;916;13;5;5;BRIGUE;4382541256;Périmé;5;Externe;
+1012;luiton;Femme;266.0;514.0;125;12;0;0;***********;***********;Périmé;0;Local;
+1013;nutica de neige;Homme;154.0;265.0;655;5;3;0;ZAF MODA INC;4385499143;Actif;3;Externe;
+1014;kuban;Unisexe;149.0;282.0;15;20;6;6;VIKII;5146521245;Actif;6;Externe;
+1019;pantalon bas larges;Homme;66.0;152.5;500;50;1;0;PAPITOZ INC;5146412512;Actif;1;Externe;
+1020;veste double fente;Homme;125.26;215.32;600;15;4;0;LASOUA;5145047105;Actif;4;Externe;
+1021;robe evasée;Femme;54.0;65.25;800;10;0;0;***********;***********;Actif;0;Local;
+1022;chapeau de soleil;Unisexe;55.6;67.35;700;20;6;0;VIKII;5146521245;Actif;6;Externe;
